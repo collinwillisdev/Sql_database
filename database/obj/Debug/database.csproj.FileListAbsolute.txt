@@ -1,0 +1,7 @@
+C:\Users\colli\source\repos\database\database\obj\Debug\database.csprojAssemblyReference.cache
+C:\Users\colli\source\repos\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\database\database\bin\Debug\database.exe.config
+C:\Users\colli\source\repos\database\database\bin\Debug\database.exe
+C:\Users\colli\source\repos\database\database\bin\Debug\database.pdb
+C:\Users\colli\source\repos\database\database\obj\Debug\database.exe
+C:\Users\colli\source\repos\database\database\obj\Debug\database.pdb
